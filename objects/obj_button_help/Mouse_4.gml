@@ -15,8 +15,9 @@ if(l2F46B0A2_0)
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 76C766DD
+	/// @DnDApplyTo : {obj_controls}
 	/// @DnDParent : 2F46B0A2
-	instance_destroy();
+	with(obj_controls) instance_destroy();
 }
 
 /// @DnDAction : YoYo Games.Common.Else

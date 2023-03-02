@@ -12,12 +12,14 @@
     {"name":"Shaders","order":15,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":12,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+    {"name":"tilesets","order":5,"path":"folders/Sprites/tilesets.yy",},
     {"name":"Tile Sets","order":11,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":17,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_controls","order":8,"path":"objects/obj_controls/obj_controls.yy",},
     {"name":"obj_game","order":3,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"Sprite8","order":6,"path":"sprites/Sprite8/Sprite8.yy",},
     {"name":"obj_button_play","order":5,"path":"objects/obj_button_play/obj_button_play.yy",},
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"obj_rock","order":2,"path":"objects/obj_rock/obj_rock.yy",},
@@ -29,5 +31,6 @@
     {"name":"obj_button_quit","order":7,"path":"objects/obj_button_quit/obj_button_quit.yy",},
     {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
     {"name":"obj_button_help","order":6,"path":"objects/obj_button_help/obj_button_help.yy",},
+    {"name":"background7","order":1,"path":"sprites/background7/background7.yy",},
   ],
 }
