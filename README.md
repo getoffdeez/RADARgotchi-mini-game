@@ -7,6 +7,16 @@ This game was made with Game Maker 2. The objective of the game is to shoot as m
 
 Be careful not to get hit by the orbs, as they will cause you to lose the game and all your points will be lost.
 
+RADARgotchi Team
+
+@getoffdeez
+@karion
+@rita
+@ting
+@universe
+
+Pixel Art created by: @ting
+
 **Installation**
 
 To play the game, you must first download it onto your device. You can do this by clicking on the "Download" button on the repository homepage. Once the download is complete, extract the files and run the game executable.
