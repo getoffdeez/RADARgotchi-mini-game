@@ -27,14 +27,11 @@ else
 {
 	/// @DnDAction : YoYo Games.Instances.Create_Instance
 	/// @DnDVersion : 1
-	/// @DnDHash : 2B64A845
-	/// @DnDApplyTo : {obj_controls}
+	/// @DnDHash : 0CC1216E
 	/// @DnDParent : 51E633C8
 	/// @DnDArgument : "xpos" "room_width / 2"
-	/// @DnDArgument : "ypos" "room_height - 100"
+	/// @DnDArgument : "ypos" "room_height - 200"
 	/// @DnDArgument : "objectid" "obj_controls"
 	/// @DnDSaveInfo : "objectid" "obj_controls"
-	with(obj_controls) {
-		instance_create_layer(room_width / 2, room_height - 100, "Instances", obj_controls); 
-	}
+	instance_create_layer(room_width / 2, room_height - 200, "Instances", obj_controls);
 }
