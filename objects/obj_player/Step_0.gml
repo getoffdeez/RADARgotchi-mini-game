@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
 /// @DnDVersion : 1
 /// @DnDHash : 5D122323
-/// @DnDArgument : "key" "vk_up"
+/// @DnDArgument : "key" "vk_down"
 var l5D122323_0;
-l5D122323_0 = keyboard_check(vk_up);
+l5D122323_0 = keyboard_check(vk_down);
 if (l5D122323_0)
 {
 	/// @DnDAction : YoYo Games.Movement.Add_Motion
@@ -13,6 +13,23 @@ if (l5D122323_0)
 	/// @DnDArgument : "dir" "image_angle"
 	/// @DnDArgument : "speed" "0.1"
 	motion_add(image_angle, 0.1);
+}
+
+/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
+/// @DnDVersion : 1
+/// @DnDHash : 270BD25E
+/// @DnDArgument : "key" "vk_up"
+var l270BD25E_0;
+l270BD25E_0 = keyboard_check(vk_up);
+if (l270BD25E_0)
+{
+	/// @DnDAction : YoYo Games.Movement.Add_Motion
+	/// @DnDVersion : 1
+	/// @DnDHash : 0006B530
+	/// @DnDParent : 270BD25E
+	/// @DnDArgument : "dir" "image_angle"
+	/// @DnDArgument : "speed" "-0.1"
+	motion_add(image_angle, -0.1);
 }
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Key_Down
