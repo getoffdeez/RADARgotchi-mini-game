@@ -21,6 +21,10 @@ Pixel Art created by: @ting
 
 To play the game, you must first download it onto your device. You can do this by clicking on the "Download" button on the repository homepage. Once the download is complete, extract the files and run the game executable.
 
+It can also be played online using the Opera Browser.
+
+https://gx.games/games/uc44yu/radargotchi-leapold-s-space-adventure/tracks/df3337ad-72bb-4b80-b2b9-94deb8071879/
+
 **License**
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit. If you do make any changes to the code, please be sure to credit the original author.
