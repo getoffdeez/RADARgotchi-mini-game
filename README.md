@@ -2,8 +2,6 @@
 
 This game was made with Game Maker 2. The objective of the game is to shoot as many orbs as you can without letting them hit you. 
 
-![Untitled design(1)](https://github.com/getoffdeez/RADARgotchi-mini-game/assets/111947685/2f162d4b-dd13-461a-b49e-e72a11802c5a)
-
 * Use the left, up, and right arrow keys to move and dodge the orbs. 
 * To shoot the orbs, simply right-click the mouse. Each time you successfully shoot an orb, you earn 1 point.
 
